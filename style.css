@@ -524,17 +524,22 @@ section {
 }
 
 .skill-bar .bar .sql{
-    width: 40%;
+    width: 50%;
     animation: sql 2s;
 }
 
 .skill-bar .bar .swift{
-    width: 50%;
+    width: 70%;
     animation: swift 2s;
 }
 
 .skill-bar .bar .css{
     width: 60%;
+    animation: html 2s;
+}
+
+.skill-bar .bar .javascript{
+    width: 50%;
     animation: html 2s;
 }
 
